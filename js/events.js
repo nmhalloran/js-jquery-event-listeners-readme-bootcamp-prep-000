@@ -15,10 +15,10 @@ function getIt() {
   })
 }
 
-function frameIt() {
-    $('img').addClass('tasty')
-
-}
+// function frameIt() {
+//     $('img').addClass('tasty')
+//
+// }
 
 function pressIt() {
   $('input').on('keydown', function(key) {
